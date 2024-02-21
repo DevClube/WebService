@@ -1,9 +1,4 @@
 # Compte Rendu - Web Service Soap WSDL
 
-## Resume
-
-Provide a brief summary of the meeting, event, or project that the compte rendu covers.
-
-## Taches
-
-### 
+## Overview
+This repository contains a guide and code snippets for implementing web services using JAX-WS (Java API for XML Web Services). The provided materials cover the concepts of SOAP within a web services architecture.
